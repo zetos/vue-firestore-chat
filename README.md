@@ -1,4 +1,6 @@
-# vue-geo-chat
+# vue-firestore-chat
+
+A simple chat app that uses the firestore db.
 
 ## Project setup
 ```
